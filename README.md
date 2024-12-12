@@ -6,9 +6,9 @@
 </div>
 <br />
 <p align="center">
-  <a href="mailto:oliver.elias011@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
+  <a href="mailto:coredev367@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/okDfPKgEgIpE" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://join.skype.com/1AiFTb0mslQm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
 </p>
 
 ## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
