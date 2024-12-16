@@ -182,8 +182,6 @@
         <p style="padding: 0; margin: 0;">BlockChain</p>
       </div>
     </td>
-
-
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="/images/icons/web3.png" style="width: 65px; height: 65px;" />
