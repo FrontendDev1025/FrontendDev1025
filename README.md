@@ -182,6 +182,8 @@
         <p style="padding: 0; margin: 0;">BlockChain</p>
       </div>
     </td>
+
+
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="/images/icons/web3.png" style="width: 65px; height: 65px;" />
@@ -190,3 +192,18 @@
     </td>
   </tr>
 </table>
+
+#
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imiss-U1025&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="I Miss U's activity graph">
+</p>
+
+<img src="https://raw.githubusercontent.com/amrit1004/amrit1004/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amrit1004/count.svg?"  />
+</div>
+
+###
