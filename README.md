@@ -12,7 +12,12 @@
 </p>
 
 ## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
+<br />
+<p align="center">
+  <a href="https://github.com/coredev25/coredev25">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=60">
+  </a>
+</p>
 <p>
   During high school and university, I acquired diverse skills and participated in several web development projects. These experiences helped me become proficient in React, Vue, and Node.js, and I also gained experience in Python for web scraping. After graduating, 
   I continued to enhance my skills by completing various projects. I am now seeking a position that allows me to utilize my abilities to the fullest while enriching my experience. My goal is to deliver high-quality work that builds trust with my clients.
@@ -189,7 +194,7 @@
       </div>
     </td>
   </tr>
-</table?
+</table>
 
 #
 <p align='center'>
