@@ -35,7 +35,7 @@ Are you looking for a reliable, experienced, and results-oriented developer to b
 ## ⚡ Technologies
 
 <table style="width: 100%;">
-  <tr style="width: 100%;">
+  <tr style="width: initial;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
