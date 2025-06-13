@@ -19,8 +19,17 @@
   </a>
 </p>
 <p>
-  During high school and university, I acquired diverse skills and participated in several web development projects. These experiences helped me become proficient in React, Vue, and Node.js, and I also gained experience in Python for web scraping. After graduating, 
-  I continued to enhance my skills by completing various projects. I am now seeking a position that allows me to utilize my abilities to the fullest while enriching my experience. My goal is to deliver high-quality work that builds trust with my clients.
+I’m a passionate and results-driven Senior Full Stack Developer with 7+ years of experience crafting high-performance, scalable web applications. My expertise spans robust backends, intuitive frontends, and end-to-end solutions that deliver exceptional user experiences and measurable impact for startups, agencies, and enterprises
+
+🏆 Senior Full Stack Developer React | Next.js | Node.js | Python | Supabase 🏆
+
+🔧 7+ Years of Experience Delivering Scalable, High-Performing Applications
+
+With strong proficiency in React, Next.js, Node.js, Python, and Supabase, I bring a unique combination of skills to the table. Whether you need to develop a lightning-fast web app ⚡, optimize your backend architecture ⚙️, or integrate APIs 🔗, I’m here to make it happen.
+
+Are you looking for a reliable, experienced, and results-oriented developer to bring your ideas to life? I’d love to hear about your project and help you achieve your goals.
+
+💡 Let’s connect today and create something 
 </p>
 
 ## ⚡ Technologies
